@@ -16,6 +16,12 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 **Type: Intermediate Level Task**
 
+**Task 04: Exploratory Data Analysis on Dataset - Terrorism
+
+Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+As a security/defense analyst, try to find out the hot zone of terrorism.
+What all security issues and insights you can derive by EDA?
+
 **Task 05: Prediction using Decision Tree Algorithm**
 
 Create the Decision Tree classifier and visualize it graphically. 
