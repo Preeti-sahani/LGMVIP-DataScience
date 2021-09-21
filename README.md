@@ -1,4 +1,4 @@
-# LGMVIP-DataScience
+# LGMVIP-DataScience Internship
 
 # **Type: Beginner Level Task**
 
