@@ -1,5 +1,4 @@
-# LGMVIP-DataScience Internship
-![image](https://user-images.githubusercontent.com/84913669/134143334-8f6426da-8d28-493f-a981-b6129c81d159.png)
+# LGMVIP-DataScience Internship ![image](https://user-images.githubusercontent.com/84913669/134143334-8f6426da-8d28-493f-a981-b6129c81d159.png)
 # **Type: Beginner Level Task**
 
 **Task 01: Iris Flower Classification ML Project**
