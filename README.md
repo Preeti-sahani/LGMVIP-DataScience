@@ -32,7 +32,7 @@ The purpose is if we feed any new data to this classifier, it would be able to  
 
 Here, I had try to classify English Alphabets  with the help of a powerful Convolutional Neural Network.
 
-**TASK 7 : Develop A Neural Network That Can Read Handwriting**
+**TASK 7 : Next Word Prediction**
 
 Neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
 Project has to classify handwritten digits using a simple neural network which has only input and output layers. Also adding a hidden layer and see how the performance of the model improves.
