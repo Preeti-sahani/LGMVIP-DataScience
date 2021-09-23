@@ -1,5 +1,5 @@
 # LGMVIP-DataScience Internship ![image](https://user-images.githubusercontent.com/84913669/134143334-8f6426da-8d28-493f-a981-b6129c81d159.png)
-# **Type: Beginner Level Task**
+# **Type: Beginner Level**
 
 **Task 01: Iris Flower Classification ML Project**
 
@@ -13,7 +13,7 @@ Stock values is very valuable but extremely hard to predict correctly for any hu
 
 We need to read the image in RBG format and then convert it to a grayscale image. This will turn an image into a classic black and white photo. Then the next thing to do is invert the grayscale image also called negative image, this will be our inverted grayscale image. Inversion can be used to enhance details. Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
 
-# **Type: Intermediate Level Task**
+# **Type: Intermediate Level**
 
 **Task 04: Exploratory Data Analysis on Dataset - Terrorism**
 
@@ -26,8 +26,13 @@ What all security issues and insights you can derive by EDA?
 Create the Decision Tree classifier and visualize it graphically. 
 The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
 
-# **Type: Intermediate Level Task**
+# **Type: Intermediate Level**
 
 **Task 06: Develop A Neural Network That Can Read Handwriting**
 
 Here, I had try to classify English Alphabets  with the help of a powerful Convolutional Neural Network.
+
+**TASK 7 : Develop A Neural Network That Can Read Handwriting**
+
+Neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners.
+Project has to classify handwritten digits using a simple neural network which has only input and output layers. Also adding a hidden layer and see how the performance of the model improves.
